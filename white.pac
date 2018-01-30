@@ -6462,7 +6462,7 @@ var white_domains = {
 "soft711":1,
 "softbar":1,
 "sogou":1,
-"xqlshop":1,
+"xqlshop.com":1,
 "sogoucdn":1,
 "sogua":1,
 "sohu":1,
